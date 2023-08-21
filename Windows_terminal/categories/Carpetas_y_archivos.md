@@ -9,7 +9,8 @@
 |:-:|---|
 | **mkdir [nombre carpeta]**  | Crear carpeta  |
 | **rmdir [nombre carpeta]**  | Eliminar carpeta  |
-| **"Hola Mundo" > prueba.txt**  | Crear archivo  |
+| **"Hola Mundo" > documento1.txt**  | Crear archivo  |
+| **del documento1.txt**  | Eliminar archivo  |
 | **copy documento1.txt documento2.txt**  | Copiar archivo  |
 | **copy documento1.txt nombre_carpeta\documento2.txt**  | Copiar archivo a otra carpeta (Importante "\\")  |
 | **move documento1.txt nombre_carpeta\documento2.txt**  | Mover archivo a otra carpeta (Importante "\\")  |
@@ -23,6 +24,8 @@ mkdir Ejercicios
 rmdir Ejercicios
 
 "Hola Mundo" > prueba.txt
+
+del documento1.txt
 
 copy documento1.txt documento2.txt
 
