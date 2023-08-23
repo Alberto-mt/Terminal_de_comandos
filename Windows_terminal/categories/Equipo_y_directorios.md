@@ -1,4 +1,4 @@
-## Windows_terminal
+## Windows terminal
 [![WINDOWS_TERMINAL](https://img.shields.io/badge/WINDOWS_TERMINAL-0078D4?style=for-the-badge&logo=WINDOWSTERMINAL&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Windows_terminal/index.md)
 
 ### Equipo y directorios
