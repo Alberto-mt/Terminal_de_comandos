@@ -1,7 +1,7 @@
 ## Unix terminal
 [![UNIX](https://img.shields.io/badge/UNIX_TERMINAL-FCC624?style=for-the-badge&logo=GNOMETERMINAL&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Unix_terminal/index.md)
 
-### Permisos
+### Permisos (Linux y Mac)
 [![UNIX](https://img.shields.io/badge/Permisos-44c04c?style=for-the-badge&logo=GNOMETERMINAL&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Unix_terminal/categories/Permisos.md)
 
 #### Listado de permisos
