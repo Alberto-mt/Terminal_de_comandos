@@ -1,7 +1,7 @@
 ## Unix terminal
 [![UNIX](https://img.shields.io/badge/UNIX_TERMINAL-FCC624?style=for-the-badge&logo=GNOMETERMINAL&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Unix_terminal/index.md)
 
-### Gestión de usuarios
+### Gestión de usuarios (Linux)
 [![UNIX](https://img.shields.io/badge/Gestión_de_usuarios-c08a44?style=for-the-badge&logo=GNOMETERMINAL&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Unix_terminal/categories/Gestion_de_usuarios.md)
 
 #### Descripción de comandos
