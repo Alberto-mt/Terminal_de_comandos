@@ -1,8 +1,8 @@
 ## Git
-[![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos)
+[![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Git/index.md)
 
 ### Categories
-[![GIT](https://img.shields.io/badge/INSTALACION_GIT-447ac0?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)]()
+[![GIT](https://img.shields.io/badge/INSTALACION_GIT-447ac0?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Git/categories/Instalacion_GIT.md)
 
 [![GIT](https://img.shields.io/badge/CONFIGURAR_USUARIO-c044b8?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)]()
 
@@ -42,4 +42,4 @@
 
 
 
-[![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos)
+[![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Git/index.md)
