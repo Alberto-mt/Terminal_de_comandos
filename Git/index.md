@@ -14,7 +14,7 @@
 
 [![GIT](https://img.shields.io/badge/ESPACIO_DE_TRABAJO-c044b8?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Git/categories/Espacio_de_trabajo.md)
 
-[![GIT](https://img.shields.io/badge/STATUS_ADD_DIFF-c08a44?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)]()
+[![GIT](https://img.shields.io/badge/STATUS_ADD_DIFF-c08a44?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Git/categories/Status_add_diff.md)
 
 [![GIT](https://img.shields.io/badge/GITIGNORE-44c04c?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)]()
 
