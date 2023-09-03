@@ -13,6 +13,7 @@
 | **git branch -D \[nombre de rama\]**  | Borrar rama  |
 | **git fetch**  | Actualizar rama  |
 | **git merge \[nombre de rama\]**  | Fusionar rama  |
+| **git cherry-pick \[id del commit\]**  | Permite aplicar los cambios introducidos por un commit específico o un rango de commits a la rama actual. Es útil cuando se quieren hacer cambios de forma selectiva desde otra rama sin fusionar toda la rama.  |
 
 #### Ejemplo
 ```bash
@@ -44,6 +45,12 @@ git checkout main
 git help merge
 git help branch
 git merge canary
+
+# Cherry-pick
+# Fusionar los cambios de un commit, sin fusionar todos los cambios (sin hacer merge)
+# Posicionarse en la rama donde se quiere fusionar el commit
+git checkout main
+git cherry-pick a1234a3
 ```
 
 [![GIT](https://img.shields.io/badge/RAMAS-c044b8?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Git/categories/Ramas.md)
