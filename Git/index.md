@@ -32,12 +32,6 @@
 
 [![GIT](https://img.shields.io/badge/STASH-c08a44?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Git/categories/Stash.md)
 
-[![GIT](https://img.shields.io/badge/LIMPIAR_EL_STASH-44c04c?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)]()
-
-[![GIT](https://img.shields.io/badge/CHERRY_PICK-447ac0?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)]()
-
-[![GIT](https://img.shields.io/badge/COMO_RESOLVER_CONFLICTOS-c044b8?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)]()
-
-[![GIT](https://img.shields.io/badge/REPOSITORIOS_REMOTOS_Y_GITHUB-c08a44?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)]()
+[![GIT](https://img.shields.io/badge/REPOSITORIOS_REMOTOS_Y_GITHUB-44c04c?style=for-the-badge&logo=GIT&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Git/categories/Repositorios_remotos_y_github.md)
 
 [![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&label=&#9650;&logoColor=white&labelColor=101010)](https://github.com/Alberto-mt/Terminal_de_comandos/blob/main/Git/index.md)
