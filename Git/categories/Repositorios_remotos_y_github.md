@@ -8,9 +8,9 @@
 | Comando  | Descripción  |
 |:-:|---|
 | **git remote add origin \[url repositorio\]**  | Vincular dirección de repositorio  |
-| **git push origin main**  | Subir cambios a repositorio  |
+| **git push origin main<br>git push**  | Subir cambios a repositorio  |
 | **git fetch --all**  | Bajarse a local todas las ramas que hay en remoto (GitHub) |
-| **git pull origin main**  | Bajar cambios a repositorio local  |
+| **git pull origin main<br>git pull**  | Bajar cambios a repositorio local  |
 | **git clone git@github.com:\[usuario\]/\[repositorio\].git**  | Clonar repositorio con SSH  |
 
 #### Conectarse de forma segura a github con SSH
